@@ -1,0 +1,9 @@
+{
+  "redirects": [],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.dorik.com/$1"
+    }
+  ]
+}
